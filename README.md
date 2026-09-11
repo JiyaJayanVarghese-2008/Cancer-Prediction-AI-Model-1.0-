@@ -30,7 +30,7 @@ Cancer-Prediction-AI-Model-1.0
 Clone the repo:
 
 
-git clone https://github.com/BasimHassan2008/Cancer-Prediction-AI-Model-1.0-.git
+git clone https://github.com/jooahh/Cancer-Prediction-AI-Model-1.0-.git
 cd Cancer-Prediction-AI-Model-1.0-
 
 
